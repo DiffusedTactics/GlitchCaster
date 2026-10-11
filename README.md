@@ -1,6 +1,6 @@
 # GlitchCaster
 
-![](hardware/glitchcaster_glamour_shot.jpg)
+![](photos/glitchcaster_glamour_shot.jpg)
 
 ## What
 
